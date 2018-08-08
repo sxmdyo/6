@@ -1,0 +1,30 @@
+1533019660081	geckodriver	INFO	geckodriver 0.21.0
+1533019660091	geckodriver	INFO	Listening on 127.0.0.1:55436
+1533019661100	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wk/dymx424j77d7n_mjkjtwhnfh0000gn/T/rust_mozprofile.yLAEssQcDV3r"
+2018-07-31 14:47:42.637 plugin-container[1946:404577] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-31 14:47:42.978 plugin-container[1947:404613] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533019663239	Marionette	INFO	Listening on port 55447
+1533019663294	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-31 14:47:44.059 plugin-container[1948:404850] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1424_26909_21110_26350_20718&csor=5&pwd=sele&cb=jQuery110206169912766507463_1533019664969&_=1533019664975, line 1: TypeError: jQuery110206169912766507463_1533019664969 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1424_26909_21110_26350_20718&csor=2&pwd=s&cb=jQuery110206169912766507463_1533019664969&_=1533019664972, line 1: TypeError: jQuery110206169912766507463_1533019664969 is not a function
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533019700547	geckodriver	INFO	geckodriver 0.21.0
+1533019700553	geckodriver	INFO	Listening on 127.0.0.1:55505
+1533019701569	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wk/dymx424j77d7n_mjkjtwhnfh0000gn/T/rust_mozprofile.gWLMiPHMFxUQ"
+2018-07-31 14:48:22.791 plugin-container[1963:409289] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-31 14:48:23.066 plugin-container[1964:409331] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533019703362	Marionette	INFO	Listening on port 55516
+1533019703447	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-31 14:48:23.929 plugin-container[1965:409535] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=26523_1428_21119_26350_26920_20930&csor=7&pwd=seleni&cb=jQuery1102021345122555463147_1533019704148&_=1533019704156, line 1: TypeError: jQuery1102021345122555463147_1533019704148 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=26523_1428_21119_26350_26920_20930&csor=1&cb=jQuery1102021345122555463147_1533019704148&_=1533019704150, line 1: TypeError: jQuery1102021345122555463147_1533019704148 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=26523_1428_21119_26350_26920_20930&csor=2&pwd=s&cb=jQuery1102021345122555463147_1533019704148&_=1533019704151, line 1: TypeError: jQuery1102021345122555463147_1533019704148 is not a function
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
